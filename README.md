@@ -1,1 +1,1 @@
-# Usado para trinar branch, pull request etc.
+# Usado para trinar branch, pull request etc. 💜💜💜
